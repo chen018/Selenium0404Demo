@@ -35,6 +35,10 @@ public class RegisterCase extends CaseBase {
     @Test
     public void Register(){
         loginPro.register();
+        System.out.println("测试成功！");
+        System.out.println("测试成功！");
+        System.out.println("测试成功！");
+        System.out.println("测试成功！");
     }
 
 
