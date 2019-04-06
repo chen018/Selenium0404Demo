@@ -1,0 +1,13 @@
+LoginlikeText=xpath>//*[@id="header-2014"]/div[1]/div/div[1]/div[1]/a[1]
+Loginliketext=classname>t-JoinFree
+register=classname>login-join-free
+name=name>loginname
+Loginpwd=id>password1
+Loginpwds=id>password2
+selectMobile=name>area
+textMobile=name>mobilephone
+email=name>email
+selecttrade=id>biz
+selectUser=name>userType
+yanzhenma=id>verifycode
+registerBut=id>subsellerid
