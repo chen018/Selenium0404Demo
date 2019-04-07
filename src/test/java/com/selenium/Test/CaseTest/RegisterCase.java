@@ -29,7 +29,7 @@ public class RegisterCase extends CaseBase {
         lph.clickRegister();
         //driver.get("https://seller.dhgate.com/merchant/register/pageLoad.do");
         driver.Gethandles();
-
+        driver.sleep();
 
     }
     @Test
