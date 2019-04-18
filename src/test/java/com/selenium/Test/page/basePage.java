@@ -94,4 +94,7 @@ public class basePage {
         s.selectByIndex(num);
     }
 
+
+
+
 }

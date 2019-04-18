@@ -11,3 +11,14 @@ selecttrade=id>biz
 selectUser=name>userType
 yanzhenma=id>verifycode
 registerBut=id>subsellerid
+Jsloginame=name>logName
+Jspassword=name>password
+inputJs=xpath>/html/body/div[2]/div[2]/form/div[4]/div/div/input
+inputJs2=xapath>/html/body/div[2]/div[2]/form/div[4]/div/dl/dd[2]
+Jsloginbut=classname>login-btn
+newJS=classname>icon icon-work1
+newjs1=xpath>//*[@id="C00002-handy"]/a/i[2]
+newmessage=xpath>/html/body/div/div/div[2]/div[1]/div[2]/ul/li/i
+newzhuti=xpath>/html/body/div[2]/div/div/div/div/div/table[1]/tbody/tr[1]/td/div/div/div/input
+newneiron=id>edui1_iframeholder
+zancen=xpath>/html/body/div[4]/button[2]

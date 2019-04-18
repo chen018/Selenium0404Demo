@@ -7,7 +7,6 @@ public class getBylocator {
 
         ProUtila properties = new ProUtila("element");
         String local=  properties.getPro(key);
-
         String localtype = local.split(">")[0].trim();
         System.out.println(localtype);
         String localValue = local.split(">")[1].trim();
